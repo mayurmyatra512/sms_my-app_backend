@@ -1,0 +1,184 @@
+{
+    "subjects": [
+        {
+            "name": "Mathematics",
+            "code": "MATH101",
+            "description": "Fundamentals of algebra, geometry, and trigonometry.",
+            "credits": 4,
+            "department": "Science",
+            "level": "Beginner",
+            "isActive": "active"
+        },
+        {
+            "name": "Physics",
+            "code": "PHYS101",
+            "description": "Basic concepts of mechanics, motion, and energy.",
+            "credits": 4,
+            "department": "Science",
+            "level": "Beginner",
+            "isActive": "active"
+        },
+        {
+            "name": "Chemistry",
+            "code": "CHEM101",
+            "description": "Introduction to atomic structure, bonding, and reactions.",
+            "credits": 4,
+            "department": "Science",
+            "level": "Beginner",
+            "isActive": "active"
+        },
+        {
+            "name": "Biology",
+            "code": "BIO101",
+            "description": "Study of living organisms and life processes.",
+            "credits": 3,
+            "department": "Science",
+            "level": "Beginner",
+            "isActive": "active"
+        },
+        {
+            "name": "English Literature",
+            "code": "ENG101",
+            "description": "Exploring classical and modern English literature.",
+            "credits": 3,
+            "department": "Arts",
+            "level": "Beginner",
+            "isActive": "active"
+        },
+        {
+            "name": "Computer Science",
+            "code": "CS101",
+            "description": "Introduction to programming and computer systems.",
+            "credits": 4,
+            "department": "Technology",
+            "level": "Beginner",
+            "isActive": "active"
+        },
+        {
+            "name": "History",
+            "code": "HIS101",
+            "description": "Overview of ancient and modern civilizations.",
+            "credits": 3,
+            "department": "Arts",
+            "level": "Beginner",
+            "isActive": "active"
+        },
+        {
+            "name": "Geography",
+            "code": "GEO101",
+            "description": "Study of earth, maps, and human-environment interaction.",
+            "credits": 3,
+            "department": "Arts",
+            "level": "Beginner",
+            "isActive": "active"
+        },
+        {
+            "name": "Economics",
+            "code": "ECO101",
+            "description": "Basic principles of micro and macroeconomics.",
+            "credits": 3,
+            "department": "Commerce",
+            "level": "Beginner",
+            "isActive": "active"
+        },
+        {
+            "name": "Accountancy",
+            "code": "ACC101",
+            "description": "Principles of financial accounting and bookkeeping.",
+            "credits": 4,
+            "department": "Commerce",
+            "level": "Beginner",
+            "isActive": "active"
+        },
+        {
+            "name": "Business Studies",
+            "code": "BUS101",
+            "description": "Foundations of business and management practices.",
+            "credits": 3,
+            "department": "Commerce",
+            "level": "Beginner",
+            "isActive": "active"
+        },
+        {
+            "name": "Political Science",
+            "code": "POL101",
+            "description": "Introduction to political systems and governance.",
+            "credits": 3,
+            "department": "Arts",
+            "level": "Beginner",
+            "isActive": "active"
+        },
+        {
+            "name": "Environmental Science",
+            "code": "ENV101",
+            "description": "Study of environment and sustainable development.",
+            "credits": 2,
+            "department": "Science",
+            "level": "Beginner",
+            "isActive": "active"
+        },
+        {
+            "name": "Psychology",
+            "code": "PSY101",
+            "description": "Introduction to human mind and behavior.",
+            "credits": 3,
+            "department": "Arts",
+            "level": "Beginner",
+            "isActive": "active"
+        },
+        {
+            "name": "Physical Education",
+            "code": "PE101",
+            "description": "Basics of physical fitness and sports training.",
+            "credits": 2,
+            "department": "Sports",
+            "level": "Beginner",
+            "isActive": "active"
+        },
+        {
+            "name": "Sociology",
+            "code": "SOC101",
+            "description": "Study of society, culture, and institutions.",
+            "credits": 3,
+            "department": "Arts",
+            "level": "Beginner",
+            "isActive": "active"
+        },
+        {
+            "name": "Statistics",
+            "code": "STAT101",
+            "description": "Fundamentals of probability and statistical methods.",
+            "credits": 4,
+            "department": "Science",
+            "level": "Intermediate",
+            "isActive": "active"
+        },
+        {
+            "name": "Philosophy",
+            "code": "PHIL101",
+            "description": "Introduction to philosophical thinking and ethics.",
+            "credits": 3,
+            "department": "Arts",
+            "level": "Beginner",
+            "isActive": "active"
+        },
+        {
+            "name": "Computer Networks",
+            "code": "CS201",
+            "description": "Basics of networking, protocols, and communication.",
+            "credits": 4,
+            "department": "Technology",
+            "level": "Intermediate",
+            "isActive": "active"
+        },
+        {
+            "name": "Data Structures",
+            "code": "CS202",
+            "description": "Understanding algorithms and data organization.",
+            "credits": 4,
+            "department": "Technology",
+            "level": "Intermediate",
+            "isActive": "active"
+        }
+    ]
+}

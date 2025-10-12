@@ -1,0 +1,754 @@
+{
+  "subjects":[
+  {
+    "name": "English",
+    "code": "ENG101",
+    "description": "Introduction to alphabets, simple words, and basic sentences.",
+    "credits": 4,
+    "department": "Languages",
+    "classId": "ObjectId('classId_Grade1')",
+    "level": "Grade 1",
+    "isActive": "active"
+  },
+  {
+    "name": "Mathematics",
+    "code": "MTH101",
+    "description": "Numbers, counting, basic addition and subtraction.",
+    "credits": 4,
+    "department": "Mathematics",
+    "classId": "ObjectId('classId_Grade1')",
+    "level": "Grade 1",
+    "isActive": "active"
+  },
+  {
+    "name": "Environmental Studies",
+    "code": "EVS101",
+    "description": "Basic knowledge of surroundings, plants, and animals.",
+    "credits": 3,
+    "department": "Science",
+    "classId": "ObjectId('classId_Grade1')",
+    "level": "Grade 1",
+    "isActive": "active"
+  },
+  {
+    "name": "Art & Craft",
+    "code": "ART101",
+    "description": "Drawing, coloring, and craft activities.",
+    "credits": 2,
+    "department": "Arts",
+    "classId": "ObjectId('classId_Grade1')",
+    "level": "Grade 1",
+    "isActive": "active"
+  },
+  {
+    "name": "Physical Education",
+    "code": "PE101",
+    "description": "Basic exercises, games, and fitness activities.",
+    "credits": 2,
+    "department": "Sports",
+    "classId": "ObjectId('classId_Grade1')",
+    "level": "Grade 1",
+    "isActive": "active"
+  },
+
+  {
+    "name": "English",
+    "code": "ENG201",
+    "description": "Reading short stories, basic grammar, and vocabulary.",
+    "credits": 4,
+    "department": "Languages",
+    "classId": "ObjectId('classId_Grade2')",
+    "level": "Grade 2",
+    "isActive": "active"
+  },
+  {
+    "name": "Mathematics",
+    "code": "MTH201",
+    "description": "Basic multiplication, division, and word problems.",
+    "credits": 4,
+    "department": "Mathematics",
+    "classId": "ObjectId('classId_Grade2')",
+    "level": "Grade 2",
+    "isActive": "active"
+  },
+  {
+    "name": "Environmental Studies",
+    "code": "EVS201",
+    "description": "Nature, seasons, and introduction to human body.",
+    "credits": 3,
+    "department": "Science",
+    "classId": "ObjectId('classId_Grade2')",
+    "level": "Grade 2",
+    "isActive": "active"
+  },
+  {
+    "name": "Art & Craft",
+    "code": "ART201",
+    "description": "Coloring, sketching, and craftwork.",
+    "credits": 2,
+    "department": "Arts",
+    "classId": "ObjectId('classId_Grade2')",
+    "level": "Grade 2",
+    "isActive": "active"
+  },
+  {
+    "name": "Physical Education",
+    "code": "PE201",
+    "description": "Running, yoga, and basic games.",
+    "credits": 2,
+    "department": "Sports",
+    "classId": "ObjectId('classId_Grade2')",
+    "level": "Grade 2",
+    "isActive": "active"
+  },
+
+  {
+    "name": "English",
+    "code": "ENG301",
+    "description": "Stories, grammar, composition, and vocabulary.",
+    "credits": 4,
+    "department": "Languages",
+    "classId": "ObjectId('classId_Grade3')",
+    "level": "Grade 3",
+    "isActive": "active"
+  },
+  {
+    "name": "Mathematics",
+    "code": "MTH301",
+    "description": "Fractions, measurement, and problem solving.",
+    "credits": 4,
+    "department": "Mathematics",
+    "classId": "ObjectId('classId_Grade3')",
+    "level": "Grade 3",
+    "isActive": "active"
+  },
+  {
+    "name": "Science",
+    "code": "SCI301",
+    "description": "Introduction to plants, animals, air, and water.",
+    "credits": 3,
+    "department": "Science",
+    "classId": "ObjectId('classId_Grade3')",
+    "level": "Grade 3",
+    "isActive": "active"
+  },
+  {
+    "name": "Social Studies",
+    "code": "SST301",
+    "description": "Introduction to family, neighborhood, and maps.",
+    "credits": 3,
+    "department": "Social Science",
+    "classId": "ObjectId('classId_Grade3')",
+    "level": "Grade 3",
+    "isActive": "active"
+  },
+  {
+    "name": "Computer Science",
+    "code": "CSC301",
+    "description": "Introduction to computers and typing basics.",
+    "credits": 2,
+    "department": "Computer Science",
+    "classId": "ObjectId('classId_Grade3')",
+    "level": "Grade 3",
+    "isActive": "active"
+  },
+
+  {
+    "name": "English",
+    "code": "ENG401",
+    "description": "Reading comprehension, grammar, and creative writing.",
+    "credits": 4,
+    "department": "Languages",
+    "classId": "ObjectId('classId_Grade4')",
+    "level": "Grade 4",
+    "isActive": "active"
+  },
+  {
+    "name": "Mathematics",
+    "code": "MTH401",
+    "description": "Multiplication, division, fractions, and geometry basics.",
+    "credits": 4,
+    "department": "Mathematics",
+    "classId": "ObjectId('classId_Grade4')",
+    "level": "Grade 4",
+    "isActive": "active"
+  },
+  {
+    "name": "Science",
+    "code": "SCI401",
+    "description": "Matter, living things, force, and energy basics.",
+    "credits": 3,
+    "department": "Science",
+    "classId": "ObjectId('classId_Grade4')",
+    "level": "Grade 4",
+    "isActive": "active"
+  },
+  {
+    "name": "Social Studies",
+    "code": "SST401",
+    "description": "History, geography, and community studies.",
+    "credits": 3,
+    "department": "Social Science",
+    "classId": "ObjectId('classId_Grade4')",
+    "level": "Grade 4",
+    "isActive": "active"
+  },
+  {
+    "name": "Computer Science",
+    "code": "CSC401",
+    "description": "Introduction to MS Paint, keyboard, and mouse skills.",
+    "credits": 2,
+    "department": "Computer Science",
+    "classId": "ObjectId('classId_Grade4')",
+    "level": "Grade 4",
+    "isActive": "active"
+  },
+  {
+    "name": "Physical Education",
+    "code": "PE401",
+    "description": "Games, yoga, and basic athletics.",
+    "credits": 2,
+    "department": "Sports",
+    "classId": "ObjectId('classId_Grade4')",
+    "level": "Grade 4",
+    "isActive": "active"
+  },
+
+  {
+    "name": "English",
+    "code": "ENG501",
+    "description": "Essays, grammar, reading comprehension, and poetry.",
+    "credits": 4,
+    "department": "Languages",
+    "classId": "ObjectId('classId_Grade5')",
+    "level": "Grade 5",
+    "isActive": "active"
+  },
+  {
+    "name": "Mathematics",
+    "code": "MTH501",
+    "description": "Decimals, percentages, geometry, and measurements.",
+    "credits": 4,
+    "department": "Mathematics",
+    "classId": "ObjectId('classId_Grade5')",
+    "level": "Grade 5",
+    "isActive": "active"
+  },
+  {
+    "name": "Science",
+    "code": "SCI501",
+    "description": "Human body, environment, and basic physics concepts.",
+    "credits": 3,
+    "department": "Science",
+    "classId": "ObjectId('classId_Grade5')",
+    "level": "Grade 5",
+    "isActive": "active"
+  },
+  {
+    "name": "Social Studies",
+    "code": "SST501",
+    "description": "History, civics, and geography introduction.",
+    "credits": 3,
+    "department": "Social Science",
+    "classId": "ObjectId('classId_Grade5')",
+    "level": "Grade 5",
+    "isActive": "active"
+  },
+  {
+    "name": "Computer Science",
+    "code": "CSC501",
+    "description": "MS Word, PowerPoint, and Internet basics.",
+    "credits": 2,
+    "department": "Computer Science",
+    "classId": "ObjectId('classId_Grade5')",
+    "level": "Grade 5",
+    "isActive": "active"
+  },
+  {
+    "name": "Physical Education",
+    "code": "PE501",
+    "description": "Sports, yoga, and fitness training.",
+    "credits": 2,
+    "department": "Sports",
+    "classId": "ObjectId('classId_Grade5')",
+    "level": "Grade 5",
+    "isActive": "active"
+  },
+
+  {
+    "name": "English",
+    "code": "ENG601",
+    "description": "Reading literature, essays, and advanced grammar.",
+    "credits": 4,
+    "department": "Languages",
+    "classId": "ObjectId('classId_Grade6')",
+    "level": "Grade 6",
+    "isActive": "active"
+  },
+  {
+    "name": "Mathematics",
+    "code": "MTH601",
+    "description": "Algebra basics, geometry, and integers.",
+    "credits": 4,
+    "department": "Mathematics",
+    "classId": "ObjectId('classId_Grade6')",
+    "level": "Grade 6",
+    "isActive": "active"
+  },
+  {
+    "name": "Science",
+    "code": "SCI601",
+    "description": "Chemistry basics, biology, and simple physics.",
+    "credits": 4,
+    "department": "Science",
+    "classId": "ObjectId('classId_Grade6')",
+    "level": "Grade 6",
+    "isActive": "active"
+  },
+  {
+    "name": "Social Studies",
+    "code": "SST601",
+    "description": "Ancient history, world maps, and government basics.",
+    "credits": 3,
+    "department": "Social Science",
+    "classId": "ObjectId('classId_Grade6')",
+    "level": "Grade 6",
+    "isActive": "active"
+  },
+  {
+    "name": "Computer Science",
+    "code": "CSC601",
+    "description": "MS Excel, Internet tools, and coding basics.",
+    "credits": 2,
+    "department": "Computer Science",
+    "classId": "ObjectId('classId_Grade6')",
+    "level": "Grade 6",
+    "isActive": "active"
+  },
+  {
+    "name": "Physical Education",
+    "code": "PE601",
+    "description": "Athletics, team sports, and fitness exercises.",
+    "credits": 2,
+    "department": "Sports",
+    "classId": "ObjectId('classId_Grade6')",
+    "level": "Grade 6",
+    "isActive": "active"
+  },
+  {
+    "name": "English",
+    "code": "ENG701",
+    "description": "Advanced reading comprehension, grammar, and writing skills.",
+    "credits": 4,
+    "department": "Languages",
+    "classId": "ObjectId('classId_Grade7')",
+    "level": "Grade 7",
+    "isActive": "active"
+  },
+  {
+    "name": "Mathematics",
+    "code": "MTH701",
+    "description": "Algebra, geometry, ratios, and proportion.",
+    "credits": 4,
+    "department": "Mathematics",
+    "classId": "ObjectId('classId_Grade7')",
+    "level": "Grade 7",
+    "isActive": "active"
+  },
+  {
+    "name": "Science",
+    "code": "SCI701",
+    "description": "Introduction to physics, chemistry, and biology concepts.",
+    "credits": 4,
+    "department": "Science",
+    "classId": "ObjectId('classId_Grade7')",
+    "level": "Grade 7",
+    "isActive": "active"
+  },
+  {
+    "name": "Social Studies",
+    "code": "SST701",
+    "description": "History, geography, and civics at intermediate level.",
+    "credits": 3,
+    "department": "Social Science",
+    "classId": "ObjectId('classId_Grade7')",
+    "level": "Grade 7",
+    "isActive": "active"
+  },
+  {
+    "name": "Computer Science",
+    "code": "CSC701",
+    "description": "Introduction to programming (Scratch/Python basics).",
+    "credits": 2,
+    "department": "Computer Science",
+    "classId": "ObjectId('classId_Grade7')",
+    "level": "Grade 7",
+    "isActive": "active"
+  },
+  {
+    "name": "Physical Education",
+    "code": "PE701",
+    "description": "Sports, athletics, yoga, and fitness routines.",
+    "credits": 2,
+    "department": "Sports",
+    "classId": "ObjectId('classId_Grade7')",
+    "level": "Grade 7",
+    "isActive": "active"
+  },
+
+  {
+    "name": "English",
+    "code": "ENG801",
+    "description": "Literature, essays, grammar, and creative writing.",
+    "credits": 4,
+    "department": "Languages",
+    "classId": "ObjectId('classId_Grade8')",
+    "level": "Grade 8",
+    "isActive": "active"
+  },
+  {
+    "name": "Mathematics",
+    "code": "MTH801",
+    "description": "Algebra, geometry, statistics, and data handling.",
+    "credits": 4,
+    "department": "Mathematics",
+    "classId": "ObjectId('classId_Grade8')",
+    "level": "Grade 8",
+    "isActive": "active"
+  },
+  {
+    "name": "Science",
+    "code": "SCI801",
+    "description": "Basic chemistry, human biology, and physics concepts.",
+    "credits": 4,
+    "department": "Science",
+    "classId": "ObjectId('classId_Grade8')",
+    "level": "Grade 8",
+    "isActive": "active"
+  },
+  {
+    "name": "Social Studies",
+    "code": "SST801",
+    "description": "Modern history, civics, and geography.",
+    "credits": 3,
+    "department": "Social Science",
+    "classId": "ObjectId('classId_Grade8')",
+    "level": "Grade 8",
+    "isActive": "active"
+  },
+  {
+    "name": "Computer Science",
+    "code": "CSC801",
+    "description": "HTML, MS Office, and introduction to coding.",
+    "credits": 2,
+    "department": "Computer Science",
+    "classId": "ObjectId('classId_Grade8')",
+    "level": "Grade 8",
+    "isActive": "active"
+  },
+  {
+    "name": "Physical Education",
+    "code": "PE801",
+    "description": "Team sports, physical training, and health education.",
+    "credits": 2,
+    "department": "Sports",
+    "classId": "ObjectId('classId_Grade8')",
+    "level": "Grade 8",
+    "isActive": "active"
+  },
+
+  {
+    "name": "English",
+    "code": "ENG901",
+    "description": "Poetry, prose, and advanced grammar for high school.",
+    "credits": 4,
+    "department": "Languages",
+    "classId": "ObjectId('classId_Grade9')",
+    "level": "Grade 9",
+    "isActive": "active"
+  },
+  {
+    "name": "Mathematics",
+    "code": "MTH901",
+    "description": "Algebra, geometry, trigonometry, and statistics.",
+    "credits": 4,
+    "department": "Mathematics",
+    "classId": "ObjectId('classId_Grade9')",
+    "level": "Grade 9",
+    "isActive": "active"
+  },
+  {
+    "name": "Physics",
+    "code": "PHY901",
+    "description": "Motion, force, work, and energy basics.",
+    "credits": 4,
+    "department": "Science",
+    "classId": "ObjectId('classId_Grade9')",
+    "level": "Grade 9",
+    "isActive": "active"
+  },
+  {
+    "name": "Chemistry",
+    "code": "CHE901",
+    "description": "Atoms, molecules, elements, and compounds.",
+    "credits": 4,
+    "department": "Science",
+    "classId": "ObjectId('classId_Grade9')",
+    "level": "Grade 9",
+    "isActive": "active"
+  },
+  {
+    "name": "Biology",
+    "code": "BIO901",
+    "description": "Cell structure, tissues, and human anatomy basics.",
+    "credits": 4,
+    "department": "Science",
+    "classId": "ObjectId('classId_Grade9')",
+    "level": "Grade 9",
+    "isActive": "active"
+  },
+  {
+    "name": "Social Studies",
+    "code": "SST901",
+    "description": "Contemporary history, civics, and global geography.",
+    "credits": 3,
+    "department": "Social Science",
+    "classId": "ObjectId('classId_Grade9')",
+    "level": "Grade 9",
+    "isActive": "active"
+  },
+  {
+    "name": "Computer Applications",
+    "code": "CSC901",
+    "description": "Introduction to databases, algorithms, and coding.",
+    "credits": 3,
+    "department": "Computer Science",
+    "classId": "ObjectId('classId_Grade9')",
+    "level": "Grade 9",
+    "isActive": "active"
+  },
+
+  {
+    "name": "English",
+    "code": "ENG1001",
+    "description": "Drama, poetry, grammar, and essays.",
+    "credits": 4,
+    "department": "Languages",
+    "classId": "ObjectId('classId_Grade10')",
+    "level": "Grade 10",
+    "isActive": "active"
+  },
+  {
+    "name": "Mathematics",
+    "code": "MTH1001",
+    "description": "Trigonometry, probability, and advanced algebra.",
+    "credits": 4,
+    "department": "Mathematics",
+    "classId": "ObjectId('classId_Grade10')",
+    "level": "Grade 10",
+    "isActive": "active"
+  },
+  {
+    "name": "Physics",
+    "code": "PHY1001",
+    "description": "Electricity, magnetism, and sound.",
+    "credits": 4,
+    "department": "Science",
+    "classId": "ObjectId('classId_Grade10')",
+    "level": "Grade 10",
+    "isActive": "active"
+  },
+  {
+    "name": "Chemistry",
+    "code": "CHE1001",
+    "description": "Periodic table, chemical reactions, and acids/bases.",
+    "credits": 4,
+    "department": "Science",
+    "classId": "ObjectId('classId_Grade10')",
+    "level": "Grade 10",
+    "isActive": "active"
+  },
+  {
+    "name": "Biology",
+    "code": "BIO1001",
+    "description": "Genetics, reproduction, and ecosystems.",
+    "credits": 4,
+    "department": "Science",
+    "classId": "ObjectId('classId_Grade10')",
+    "level": "Grade 10",
+    "isActive": "active"
+  },
+  {
+    "name": "Social Studies",
+    "code": "SST1001",
+    "description": "Indian constitution, global history, and civics.",
+    "credits": 3,
+    "department": "Social Science",
+    "classId": "ObjectId('classId_Grade10')",
+    "level": "Grade 10",
+    "isActive": "active"
+  },
+  {
+    "name": "Computer Applications",
+    "code": "CSC1001",
+    "description": "Programming in Python, databases, and IT basics.",
+    "credits": 3,
+    "department": "Computer Science",
+    "classId": "ObjectId('classId_Grade10')",
+    "level": "Grade 10",
+    "isActive": "active"
+  },
+
+  {
+    "name": "English",
+    "code": "ENG1101",
+    "description": "Literature, advanced writing, and communication.",
+    "credits": 4,
+    "department": "Languages",
+    "classId": "ObjectId('classId_Grade11')",
+    "level": "Grade 11",
+    "isActive": "active"
+  },
+  {
+    "name": "Mathematics",
+    "code": "MTH1101",
+    "description": "Functions, calculus basics, and advanced algebra.",
+    "credits": 5,
+    "department": "Mathematics",
+    "classId": "ObjectId('classId_Grade11')",
+    "level": "Grade 11",
+    "isActive": "active"
+  },
+  {
+    "name": "Physics",
+    "code": "PHY1101",
+    "description": "Mechanics, laws of motion, and thermodynamics.",
+    "credits": 5,
+    "department": "Science",
+    "classId": "ObjectId('classId_Grade11')",
+    "level": "Grade 11",
+    "isActive": "active"
+  },
+  {
+    "name": "Chemistry",
+    "code": "CHE1101",
+    "description": "Organic chemistry, solutions, and bonding.",
+    "credits": 5,
+    "department": "Science",
+    "classId": "ObjectId('classId_Grade11')",
+    "level": "Grade 11",
+    "isActive": "active"
+  },
+  {
+    "name": "Biology",
+    "code": "BIO1101",
+    "description": "Botany, zoology, and human physiology.",
+    "credits": 5,
+    "department": "Science",
+    "classId": "ObjectId('classId_Grade11')",
+    "level": "Grade 11",
+    "isActive": "active"
+  },
+  {
+    "name": "Economics",
+    "code": "ECO1101",
+    "description": "Microeconomics, demand, and supply basics.",
+    "credits": 4,
+    "department": "Commerce",
+    "classId": "ObjectId('classId_Grade11')",
+    "level": "Grade 11",
+    "isActive": "active"
+  },
+  {
+    "name": "Accountancy",
+    "code": "ACC1101",
+    "description": "Introduction to accounting principles.",
+    "credits": 4,
+    "department": "Commerce",
+    "classId": "ObjectId('classId_Grade11')",
+    "level": "Grade 11",
+    "isActive": "active"
+  },
+
+  {
+    "name": "English",
+    "code": "ENG1201",
+    "description": "Critical analysis, essays, and advanced literature.",
+    "credits": 4,
+    "department": "Languages",
+    "classId": "ObjectId('classId_Grade12')",
+    "level": "Grade 12",
+    "isActive": "active"
+  },
+  {
+    "name": "Mathematics",
+    "code": "MTH1201",
+    "description": "Calculus, probability, and linear programming.",
+    "credits": 5,
+    "department": "Mathematics",
+    "classId": "ObjectId('classId_Grade12')",
+    "level": "Grade 12",
+    "isActive": "active"
+  },
+  {
+    "name": "Physics",
+    "code": "PHY1201",
+    "description": "Optics, electromagnetism, and modern physics.",
+    "credits": 5,
+    "department": "Science",
+    "classId": "ObjectId('classId_Grade12')",
+    "level": "Grade 12",
+    "isActive": "active"
+  },
+  {
+    "name": "Chemistry",
+    "code": "CHE1201",
+    "description": "Organic and inorganic chemistry in detail.",
+    "credits": 5,
+    "department": "Science",
+    "classId": "ObjectId('classId_Grade12')",
+    "level": "Grade 12",
+    "isActive": "active"
+  },
+  {
+    "name": "Biology",
+    "code": "BIO1201",
+    "description": "Genetics, evolution, ecology, and biotechnology.",
+    "credits": 5,
+    "department": "Science",
+    "classId": "ObjectId('classId_Grade12')",
+    "level": "Grade 12",
+    "isActive": "active"
+  },
+  {
+    "name": "Economics",
+    "code": "ECO1201",
+    "description": "Macroeconomics, national income, and markets.",
+    "credits": 4,
+    "department": "Commerce",
+    "classId": "ObjectId('classId_Grade12')",
+    "level": "Grade 12",
+    "isActive": "active"
+  },
+  {
+    "name": "Accountancy",
+    "code": "ACC1201",
+    "description": "Financial statements and company accounts.",
+    "credits": 4,
+    "department": "Commerce",
+    "classId": "ObjectId('classId_Grade12')",
+    "level": "Grade 12",
+    "isActive": "active"
+  },
+  {
+    "name": "Business Studies",
+    "code": "BST1201",
+    "description": "Management, organization, and business environment.",
+    "credits": 4,
+    "department": "Commerce",
+    "classId": "ObjectId('classId_Grade12')",
+    "level": "Grade 12",
+    "isActive": "active"
+  }
+
+]}

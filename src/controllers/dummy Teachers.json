@@ -1,0 +1,194 @@
+{
+    "sections": [
+        {
+            "firstName": "Rajesh",
+            "lastName": "Kumar",
+            "email": "rajesh.kumar@school.edu",
+            "password": "password123",
+            "phone": "9876543210",
+            "role": "teacher",
+            "gender": "male",
+            "dateOfBirth": "1980-05-15",
+            "address": "12 Green Street, Springfield",
+            "experience": "15 years",
+            "qualification": "MSc Computer Science",
+            "joiningDate": "2005-06-01",
+            "salary": 75000,
+            "employeeCode": "TCH001",
+            "designation": "Senior Lecturer",
+            "department": "68d0571f957709d57c0908b5",
+            "status": "active",
+            "subjects": [
+                "68d01ee481cdaa9bfbcc8446",
+                "68d01ee481cdaa9bfbcc8453"
+            ],
+            "classId": [
+                "68d020b095c6ac6fabde128b"
+            ],
+            "sectionId": [
+                "68d020b095c6ac6fabde128b"
+            ],
+            "emergencyContactName": "Sunita Kumar",
+            "emergencyContactNumber": "9876501234",
+            "emergencyContactRelation": "Spouse"
+        },
+        {
+            "firstName": "Anjali",
+            "lastName": "Verma",
+            "email": "anjali.verma@school.edu",
+            "password": "password123",
+            "phone": "9123456780",
+            "role": "teacher",
+            "gender": "female",
+            "dateOfBirth": "1985-09-20",
+            "address": "45 Blue Avenue, Springfield",
+            "experience": "12 years",
+            "qualification": "MSc Mathematics",
+            "joiningDate": "2008-07-15",
+            "salary": 70000,
+            "employeeCode": "TCH002",
+            "designation": "Lecturer",
+            "department": "68d0571f957709d57c0908b6",
+            "status": "active",
+            "subjects": [
+                "68c33a8b9ae0c26598664a08",
+                "68c33a8b9ae0c26598664a08"
+            ],
+            "classId": [
+                "68d020b095c6ac6fabde128a"
+            ],
+            "sectionId": [
+                "68d04e5efdd0c8a0df7ff972"
+            ],
+            "emergencyContactName": "Suresh Verma",
+            "emergencyContactNumber": "9123409876",
+            "emergencyContactRelation": "Spouse"
+        },
+        {
+            "firstName": "Manoj",
+            "lastName": "Gupta",
+            "email": "manoj.gupta@school.edu",
+            "password": "password123",
+            "phone": "9988776655",
+            "role": "teacher",
+            "gender": "male",
+            "dateOfBirth": "1978-02-11",
+            "address": "89 Red Lane, Springfield",
+            "experience": "18 years",
+            "qualification": "MSc Physics",
+            "joiningDate": "2003-05-10",
+            "salary": 80000,
+            "employeeCode": "TCH003",
+            "designation": "Senior Lecturer",
+            "department": "68d0571f957709d57c0908b7",
+            "status": "active",
+            "subjects": [
+                "68d01ee481cdaa9bfbcc8442",
+                "68d01ee481cdaa9bfbcc844f"
+            ],
+            "classId": [
+                "68d020b095c6ac6fabde128e"
+            ],
+            "sectionId": [
+                "68d04e5efdd0c8a0df7ff97d"
+            ],
+            "emergencyContactName": "Rita Gupta",
+            "emergencyContactNumber": "9988701234",
+            "emergencyContactRelation": "Spouse"
+        },
+        {
+            "firstName": "Seema",
+            "lastName": "Sharma",
+            "email": "seema.sharma@school.edu",
+            "password": "password123",
+            "phone": "9811223344",
+            "role": "teacher",
+            "gender": "female",
+            "dateOfBirth": "1982-12-30",
+            "address": "33 Yellow Street, Springfield",
+            "experience": "14 years",
+            "qualification": "MSc Chemistry",
+            "joiningDate": "2007-01-20",
+            "salary": 72000,
+            "employeeCode": "TCH004",
+            "designation": "Lecturer",
+            "department": "68d0571f957709d57c0908b8",
+            "status": "active",
+            "subjects": [
+                "68d01ee481cdaa9bfbcc8443"
+            ],
+            "classId": [
+                "68d020b095c6ac6fabde128c"
+            ],
+            "sectionId": [
+                "68d04e5efdd0c8a0df7ff978"
+            ],
+            "emergencyContactName": "Rajesh Sharma",
+            "emergencyContactNumber": "9811209876",
+            "emergencyContactRelation": "Spouse"
+        },
+        {
+            "firstName": "Rajiv",
+            "lastName": "Singh",
+            "email": "rajiv.singh@school.edu",
+            "password": "password123",
+            "phone": "9876501234",
+            "role": "teacher",
+            "gender": "male",
+            "dateOfBirth": "1983-08-10",
+            "address": "21 Orange Avenue, Springfield",
+            "experience": "13 years",
+            "qualification": "MSc Biology",
+            "joiningDate": "2009-03-15",
+            "salary": 71000,
+            "employeeCode": "TCH005",
+            "designation": "Lecturer",
+            "department": "Biology",
+            "status": "active",
+            "subjects": [
+                "68d01ee481cdaa9bfbcc8444",
+                "68d01ee481cdaa9bfbcc844e"
+            ],
+            "classId": [
+                "68d020b095c6ac6fabde128b"
+            ],
+            "sectionId": [
+                "68d04e5efdd0c8a0df7ff974"
+            ],
+            "emergencyContactName": "Sunita Singh",
+            "emergencyContactNumber": "9876505678",
+            "emergencyContactRelation": "Spouse"
+        },
+        {
+            "firstName": "Pooja",
+            "lastName": "Khatri",
+            "email": "pooja.khatri@school.edu",
+            "password": "password123",
+            "phone": "9123456789",
+            "role": "teacher",
+            "gender": "female",
+            "dateOfBirth": "1987-11-05",
+            "address": "14 Maple Street, Springfield",
+            "experience": "10 years",
+            "qualification": "MEd English",
+            "joiningDate": "2011-06-12",
+            "salary": 68000,
+            "employeeCode": "TCH006",
+            "designation": "Lecturer",
+            "department": "68d0571f957709d57c0908ba",
+            "status": "active",
+            "subjects": [
+                "68d01ee481cdaa9bfbcc8445"
+            ],
+            "classId": [
+                "68d020b095c6ac6fabde1289"
+            ],
+            "sectionId": [
+                "68d04e5efdd0c8a0df7ff970"
+            ],
+            "emergencyContactName": "Ramesh Khatri",
+            "emergencyContactNumber": "9123409871",
+            "emergencyContactRelation": "Spouse"
+        }
+    ]
+}
