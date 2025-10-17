@@ -31,7 +31,7 @@ app.use(cors({
   credentials: true
 }));
 
-app.get('/api/health', (_req, res) => res.send('ok'));
+app.get('/api2/health', (_req, res) => res.send('ok'));
 // app.use(bodyParser.json());
 // app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.json());
@@ -44,7 +44,7 @@ app.use(expressEjsLayouts);
 app.set('view engine', 'ejs');
 app.set('views', './src/views');
 
-app.use('/api', router);
+app.use('/api2', router);
 
 
 app.listen(PORT, '0.0.0.0', () => {
